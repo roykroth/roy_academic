@@ -28,6 +28,3 @@ content/.DS_Store
 
 Order/decode.c
 *.fls
-
-# For this project I don't want to track the public folder
-public/
