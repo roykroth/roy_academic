@@ -28,4 +28,4 @@ weight = 1
 
 # Biography
 
-Roy Roth is an amazing 4th year PhD student in finance at the Stanford Graduate School of Business. Prior to attending Stanford he earned a bachelors degree in economics and math at Brigham Young University. His research interests include venture capital and entrepreneurship as well the the financial decisions of households and firms. His current research explores how venture capitalists seek to alter the riskiness of their portfolio companies based on the performance of their entire fund.
+Roy Roth is a 4th year PhD student in finance at the Stanford Graduate School of Business. Prior to attending Stanford he earned a bachelors degree in economics and math at Brigham Young University. His research interests include venture capital and entrepreneurship as well the the financial decisions of households and firms. His current research explores how venture capitalists seek to alter the riskiness of their portfolio companies based on the performance of their entire fund.
