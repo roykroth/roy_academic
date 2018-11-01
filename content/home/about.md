@@ -34,4 +34,4 @@ weight = 1
 
 # Biography
 
-I am a 5th year PhD student in finance at the Stanford Graduate School of Business. I am on the job market this year and will be available for meetings at the 2019 ASSA meetings in Atlanta. Prior to attending Stanford I earned a bachelors degree in economics and math at Brigham Young University. My research interests include venture capital and entrepreneurship as well the financial decisions of households and firms. My job market papers explores the forces that determine the optimal staging of financing for VC financed entrepreneurs.
+I am a 5th year PhD student in finance at the Stanford Graduate School of Business. I am on the job market this year and will be available for meetings at the January 2019 ASSA meetings in Atlanta. Prior to attending Stanford I earned a bachelors degree in economics and math at Brigham Young University. My research interests include venture capital and entrepreneurship as well the financial decisions of households and firms. My job market papers explores the forces that determine the optimal staging of financing for VC financed entrepreneurs.
