@@ -1,7 +1,7 @@
-baseurl = "http://roykroth.github.io/"
-# baseurl = "http://roykroth.com"
+# baseurl = "http://roykroth.github.io/"
+baseurl = "http://roykroth.com"
 title = "Roy Roth Homepage"
-copyright = "&copy; 2016 Roy Roth"
+copyright = "&copy; 2018 Roy Roth"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -122,15 +122,15 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
   #
-  # [[params.social]]
-  #   icon = "envelope"
-  #   icon_pack = "fa"
-  #   link = "mailto:roykroth@stanford.edu"
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:roykroth@stanford.edu"
   #
-  # [[params.social]]
-  #   icon = "linkedin"
-  #   icon_pack = "fa"
-  #   link = "//linkedin.com/in/roykroth"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/roykroth"
   # #
   # [[params.social]]
   #   icon = "twitter"
