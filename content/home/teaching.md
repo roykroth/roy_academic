@@ -14,13 +14,14 @@ weight = 60
 
 +++
 
-I have worked as a Course Assistant for the following Courses
+I have worked as a Course Assistant for the following courses
 
 | School   | Course Number           | Course Name                         | Professor                            | Term                     |
 |----------|-------------------------|-------------------------------------|--------------------------------------|--------------------------|
-| Stanford | Finance 385             | Venture Capital and Angel Financing | Ilya Strebulaev                      | Fall 2016                |
-| Stanford | Finance 211             | Corporate Finance                   | Jeff Zwiebel & Ben Hébert            | Spring 2016, Spring 2017 |
-| Stanford | Finance 201 & 204         | Managerial Finance                  | Timothy McQuade & Svetlana Brzgalova | Winter 2016, Winter 2017 |
+| Stanford | Finance 385             | Venture Capital and Angel Financing | Ilya Strebulaev                      | Fall 2016, Fall 2017     |
+| Stanford | Finance 229             | MSx Finance                   | Jeff Zwiebel           | Fall 2018 |
+| Stanford | Finance 211             | Corporate Finance                   | Jeff Zwiebel & Ben Hébert            | Spring 2016, Spring 2017, Spring 2018 |
+| Stanford | Finance 201 & 204         | Managerial Finance                  | Timothy McQuade & Svetlana Brzgalova | Winter 2016, Winter 2017, Winter 2018 |
 | BYU      | Business Management 485 | Pre-PhD Finance Seminar             | Keith Vorkink                        | Winter 2013              |
 | BYU      | Economics 382           | Intermediate Price Theory 2         | Brennan Platt                        | Winter 2012              |
 | BYU      | Economics 380           | Intermediate Price Theory 1         | Joseph Price                         | Spring 2012, Fall 2012   |

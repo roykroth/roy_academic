@@ -24,6 +24,11 @@ weight = 1
   institution = "Brigham Young University"
   year = 2014
 
+  [[education.courses]]
+  course = "PhD in Finance"
+  institution = "Stanford Graduate School of Business"
+  year = "2019 (Expected)"
+
 
 +++
 

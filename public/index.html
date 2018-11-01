@@ -1,6 +1,4 @@
 
-  Please complete the installation of Academic by following the steps at https://sourcethemes.com/academic/docs/install/
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -242,7 +240,7 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-telephone person-address">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
@@ -256,13 +254,13 @@
 
         
         
+
+        
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           <a href="https://www.gsb.stanford.edu" target="_blank" itemprop="url" rel="noopener">
-            <span itemprop="name">Stanford GSB</span>
+          <span itemprop="name">Stanford GSB</span>
           </a>
         </h3>
-        
-
         
       </div>
 
@@ -566,6 +564,11 @@
       
 
       
+      <li>
+        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+        <span id="person-telephone" itemprop="telephone"><a href="tel:%28904%29%20234-3097">(904) 234-3097</a></span>
+      </li>
+      
 
       
 
@@ -711,8 +714,25 @@
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
 
     
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="/js/search.js"></script>
     
 
     
