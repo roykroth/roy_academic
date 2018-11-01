@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Roy Roth Homepage</title>
-    <link>http://roykroth.github.io/project/</link>
+    <link>http://roykroth.com/project/</link>
     <description>Recent content in Projects on Roy Roth Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Roy Roth</copyright>
+    <copyright>&amp;copy; 2018 Roy Roth</copyright>
     <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://roykroth.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Risk and Incentives in Venture Capital, A Portfolio Perspective</title>
-      <link>http://roykroth.github.io/project/risk-incentives/</link>
+      <link>http://roykroth.com/project/risk-incentives/</link>
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://roykroth.github.io/project/risk-incentives/</guid>
-      <description>&lt;p&gt;I explore conflicts of interest between venture capitalists (VCs) and entrepreneurs (Es). When the venture capital portfolio consists of only a single investment, the VC and E face exactly the same incentives concerning the risk profile and exit strategy. However, as the portfolio grows the picture changes dramatically, giving rise to important conflicts of interest. Specifically, when the portfolio experiences a large positive outcome the concavity of the VC&amp;rsquo;s payoff effectively induces risk aversion, with VC preferring safer strategies than E. However, when early projects fail, the VC often prefers riskier strategies than E, even when such strategies destroy value. Most interestingly, early in the life of the fund the VC has stronger incentives to take risk than later in life, creating potential conflicts with entrepreneurs. These results arise due to the securities commonly used in the VC industry and the compensation contracts of VCs.&lt;/p&gt;
-
-&lt;p&gt;Working paper to be posted soon.&lt;/p&gt;
-</description>
+      <guid>http://roykroth.com/project/risk-incentives/</guid>
+      <description>I explore conflicts of interest between venture capitalists (VCs) and entrepreneurs (Es). When the venture capital portfolio consists of only a single investment, the VC and E face exactly the same incentives concerning the risk profile and exit strategy. However, as the portfolio grows the picture changes dramatically, giving rise to important conflicts of interest. Specifically, when the portfolio experiences a large positive outcome the concavity of the VC&amp;rsquo;s payoff effectively induces risk aversion, with VC preferring safer strategies than E.</description>
     </item>
     
   </channel>
