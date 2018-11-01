@@ -39,7 +39,7 @@ enableGitInfo = false
   role = "Finance PhD Student"
   organizations = [ { name = "Stanford GSB", url = "https://www.gsb.stanford.edu" } ]
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"
+  avatar = "Picture.jpeg"
   email = "roykroth@stanford.edu"
   address = "655 Knight Way, Stanford, CA 94305"
   office_hours = ""
