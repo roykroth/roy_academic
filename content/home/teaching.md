@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-I have worked as a Course Assistant for the following courses
+I have worked as a Course Assistant for the following courses:
 
 | School   | Course Number           | Course Name                         | Professor                            | Term                     |
 |----------|-------------------------|-------------------------------------|--------------------------------------|--------------------------|

@@ -3,10 +3,10 @@
 date = "2017-04-19"
 
 # Project title.
-title = "Risk and Incentives in Venture Capital, A Portfolio Perspective"
+title = "Risk and Incentives in Venture Capital - A Portfolio Perspective"
 
 # Project summary to display on homepage.
-summary = "Venture Capitalists manage portfolios, this project explores how this simple fact affects their decision making"
+summary = "Venture Capitalists manage portfolios, this project explores how this simple fact affects their decision-making"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""

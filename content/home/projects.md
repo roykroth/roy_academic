@@ -25,8 +25,4 @@ view = 1
   name = "All"
   tag = "*"
 
-[[filter]]
-  name = "Venture Capital"
-  tag = ".venture-capital"
-
 +++

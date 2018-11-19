@@ -20,14 +20,15 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Finance"
+  institution = "Stanford Graduate School of Business"
+  year = "2019 (Expected)"
+
+[[education.courses]]
   course = "BA in Economics and Math"
   institution = "Brigham Young University"
   year = 2014
 
-  [[education.courses]]
-  course = "PhD in Finance"
-  institution = "Stanford Graduate School of Business"
-  year = "2019 (Expected)"
 
 
 +++
