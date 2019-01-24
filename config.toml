@@ -43,7 +43,7 @@ enableGitInfo = false
   email = "roykroth@stanford.edu"
   address = "655 Knight Way, Stanford, CA 94305"
   office_hours = ""
-  phone = "(904) 234-3097"
+  # phone = "(904) 234-3097"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -265,10 +265,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[menu.main]]
-   name = "CV"
-   url = "files/RoyRothCV.pdf"
-   weight = 6
+# [[menu.main]]
+#    name = "CV"
+#    url = "files/RoyRothCV.pdf"
+#    weight = 6
 
 # Search.
 [params.search]
